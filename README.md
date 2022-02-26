@@ -3,8 +3,12 @@ Pong [Archived]
 
 This piece of code is very close to my heart. This is the very first project and is the very first video game that I programmed. This repo is just an archive of that piece of code which I can keep a track of and look back with nostelgia. This code was written somwhere around the 30th of November 2010. Here are the instructions on how to run this piece of code.
 
+Run `make help` for getting the list of all the make commands
+
 If you're running from linux
 ----------------------------
+
+P.S. This has only been tested on Linux
 
 1. Make sure you have DosBox installed, that's the key emulator since this is an application implemented in DOS
 
